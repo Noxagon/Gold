@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="60dp"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#B0C4DE"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingTop="5dp">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="140dp"
+                android:src="@drawable/round_account_circle_24" />
+
+            <LinearLayout
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/user_points"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textSize="72sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Points"
+                    android:textAlignment="center"
+                    android:textSize="21sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/items_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#B0C4DE"
+                android:drawableStart="@drawable/round_arrow_back_ios_24"
+                android:padding="10dp"
+                android:paddingStart="30dp"
+                android:paddingEnd="60dp"
+                android:text="Categories"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <com.kenilt.loopingviewpager.widget.LoopingViewPager
+                android:id="@+id/items_pager"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_below="@+id/items_text"
+                android:clipToPadding="false"
+                android:overScrollMode="never"
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp" />
+
+            <com.tbuonomo.viewpagerdotsindicator.WormDotsIndicator
+                android:id="@+id/items_indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/items_pager"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="30dp"
+                app:dotsColor="#B0C4DE"
+                app:dotsCornerRadius="6dp"
+                app:dotsSize="12dp"
+                app:dotsSpacing="4dp"
+                app:dotsStrokeColor="#B0C4DE"
+                app:dotsStrokeWidth="2dp"
+                app:progressMode="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/voucher_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#B0C4DE"
+                android:drawableRight="@drawable/round_arrow_forward_ios_24"
+                android:padding="10dp"
+                android:paddingStart="60dp"
+                android:paddingEnd="30dp"
+                android:text="Vouchers"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <com.kenilt.loopingviewpager.widget.LoopingViewPager
+                android:id="@+id/voucher_pager"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_below="@+id/voucher_text"
+                android:clipToPadding="false"
+                android:overScrollMode="never"
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp" />
+
+            <com.tbuonomo.viewpagerdotsindicator.WormDotsIndicator
+                android:id="@+id/voucher_indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/voucher_pager"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="30dp"
+                app:dotsColor="#B0C4DE"
+                app:dotsCornerRadius="6dp"
+                app:dotsSize="12dp"
+                app:dotsSpacing="4dp"
+                app:dotsStrokeColor="#B0C4DE"
+                app:dotsStrokeWidth="2dp"
+                app:progressMode="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>

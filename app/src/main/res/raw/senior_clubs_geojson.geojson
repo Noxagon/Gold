@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Boon Lay)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>1999</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>319258</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Lorong 8 Toa Payoh</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Club</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/toa-payoh-south-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Toa Payoh South CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>178CA4A31C350E45</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td></td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.709028,
+          1.347105,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Bukit Merah)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>170</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td>Ulu Pandan Community Building</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>279621</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Ghim Moh Road</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Club</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/ulu-pandan-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Ulu Pandan CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td>1</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>F7D39D4FDE5770E4</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td>1</td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826559,
+          1.281841,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Henderson)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>2</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>129605</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Clementi West Street 2</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Centre</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/west-coast-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>West Coast CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>5DF752726BD6C22A</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td></td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.821750,
+          1.284390,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Lengkok Bahru)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>300</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>327737</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Whampoa Drive</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Club</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/whampoa-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Whampoa CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>66947A1A86FCC0AC</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td></td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814154,
+          1.288268,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Marsiling)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>353</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>730353</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Woodlands Ave 1</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Centre</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/woodgrove-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Woodgrove CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td>1</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>D36C8B9C069DCD21</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td>753</td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.778144,
+          1.439006,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Mount Faber)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>45</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>339771</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Boon Keng Road</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Club</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/kallang-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Kallang CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>2B16AB135D979780</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td></td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808811,
+          1.274406,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Redhill)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>385</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>199581</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Beach Road</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Club</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/kampong-glam-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Kampong Glam CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>BB761485C277755E</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td></td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817047,
+          1.287393,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Taman Jurong)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>5</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>417408</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Lengkong Tiga</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Club</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/kampong-kembangan-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Kampong Kembangan CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>60E6551142851D3C</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td></td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.722875,
+          1.335422,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Telok Blangah)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>10</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>409075</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Jalan Ubi</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Centre</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/kampong-ubi-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Kampong Ubi CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>DC9F1FCBF93425D1</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190624164320</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td></td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.823029,
+          1.271555,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTUC Health Senior Activity Centre (Whampoa)",
+        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSBLOCKHOUSENUMBER</th> <td>1</td> </tr><tr bgcolor=\"\"> <th>ADDRESSBUILDINGNAME</th> <td></td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSPOSTALCODE</th> <td>768019</td> </tr><tr bgcolor=\"\"> <th>ADDRESSSTREETNAME</th> <td>Northpoint Drive</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSTYPE</th> <td>A</td> </tr><tr bgcolor=\"\"> <th>DESCRIPTION</th> <td>Community Centre</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>HYPERLINK</th> <td>https://www.onepa.sg/cc/nee-soon-central-cc</td> </tr><tr bgcolor=\"\"> <th>LANDXADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>LANDYADDRESSPOINT</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>NAME</th> <td>Nee Soon Central CC</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>PHOTOURL</th> <td></td> </tr><tr bgcolor=\"\"> <th>ADDRESSFLOORNUMBER</th> <td>1</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>BD725D17D8A2B1CF</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20190925171119</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>ADDRESSUNITNUMBER</th> <td>201</td> </tr></table></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860995,
+          1.327339,
+          0
+        ]
+      }
+    }
+  ]
+}

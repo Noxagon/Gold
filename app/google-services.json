@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130560467980",
+    "firebase_url": "https://gold-b1fea.firebaseio.com",
+    "project_id": "gold-b1fea",
+    "storage_bucket": "gold-b1fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130560467980:android:4135676c9f03bd0a3e7a29",
+        "android_client_info": {
+          "package_name": "com.sp.gold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130560467980-j67e7173583trlqo5jd1ekdteqvu9r8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_65LQX88gV6Z2YW5b572Dk7Rmwq_1T9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130560467980-j67e7173583trlqo5jd1ekdteqvu9r8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

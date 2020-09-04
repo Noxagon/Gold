@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:foreground="?attr/selectableItemBackground"
+    android:orientation="vertical"
+    app:cardCornerRadius="10dp"
+    app:cardBackgroundColor="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:gravity="center_vertical"-->
+<!--            android:orientation="horizontal" >-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="45dp"-->
+<!--                android:layout_height="45dp"-->
+<!--                android:src="@drawable/round_email_24"-->
+<!--                android:tint="#B0C4DE" />-->
+<!--            -->
+<!--        </LinearLayout>-->
+
+        <TextView
+            android:id="@+id/inbox_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/round_email_24"
+            android:drawablePadding="10dp"
+            android:drawableTint="#B0C4DE"
+            android:singleLine="true"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/inbox_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="21sp"
+            android:textAlignment="viewEnd"/>
+
+        <LinearLayout
+            android:id="@+id/inbox_buttons_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <Button
+                android:id="@+id/inbox_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="0.3"
+                android:backgroundTint="#A6A6A6"
+                android:text="Cancel"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/inbox_accept"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="0.7"
+                android:backgroundTint="#B0C4DE"
+                android:drawableLeft="@drawable/round_send_24"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
